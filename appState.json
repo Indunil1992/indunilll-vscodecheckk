@@ -1,0 +1,147 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "01f14389-7832-4bdc-985f-c32827e6cc0e": {
+        "id": "01f14389-7832-4bdc-985f-c32827e6cc0e",
+        "parent": null,
+        "name": "indunilll-vscodecheckk.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "indunilll-vscodecheckk.js",
+        "cursor": {
+          "lineNumber": 1,
+          "column": 1
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "indunilllVscodecheckk"
+        },
+        "triggers": [
+          {
+            "resourceName": "apiginduuTestttqainduhghg78678any",
+            "config": {}
+          }
+        ],
+        "lastUpdated": 1612167693962,
+        "testCases": {
+          "f31db7a5-1556-4aea-8ffa-7572432b1d0b": {
+            "id": "f31db7a5-1556-4aea-8ffa-7572432b1d0b",
+            "name": "indu-Test event",
+            "functionId": "01f14389-7832-4bdc-985f-c32827e6cc0e",
+            "event": "{\r\n    \"key1\": \"value1\",\r\n    \"key2\": \"value2\",\r\n    \"key3\": \"value3\"\r\n}",
+            "eventTemplate": "hello-world"
+          },
+          "cdd3d326-2e82-425d-bee9-5e1be5dc08e2": {
+            "id": "cdd3d326-2e82-425d-bee9-5e1be5dc08e2",
+            "name": "sach-Test Eve 2",
+            "functionId": "01f14389-7832-4bdc-985f-c32827e6cc0e",
+            "event": "{\r\n    \"key1\": \"value1\",\r\n    \"key2\": \"value2\",\r\n    \"key3\": \"value3\"\r\n}",
+            "eventTemplate": "hello-world"
+          }
+        }
+      },
+      "0aff37bd-6af2-41e8-a950-7e7b5319252f": {
+        "id": "0aff37bd-6af2-41e8-a950-7e7b5319252f",
+        "parent": null,
+        "name": "package.json",
+        "type": "JSON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "package.json"
+      }
+    },
+    "openFiles": [
+      "01f14389-7832-4bdc-985f-c32827e6cc0e"
+    ],
+    "currentFileId": "01f14389-7832-4bdc-985f-c32827e6cc0e",
+    "resources": {
+      "apiginduuTestttqainduhghg78678any": {
+        "name": "apiginduuTestttqainduhghg78678any",
+        "type": "API_GATEWAY",
+        "config": {
+          "apiType": 1,
+          "apiMode": 0,
+          "apiName": "induu-testtt",
+          "endpointType": "EDGE",
+          "resourceMode": 0,
+          "resourceName": "qa/indu/hghg78678",
+          "resourcePath": "/qa/indu/hghg78678",
+          "restMethod": "ANY",
+          "proxyIntegration": false,
+          "enableCORS": false,
+          "stageMode": 0,
+          "stageName": "test",
+          "mode": 0
+        }
+      },
+      "s3induuuu": {
+        "name": "s3induuuu",
+        "type": "S3",
+        "config": {
+          "mode": 1,
+          "bucket": {
+            "name": "induuuu"
+          }
+        }
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {
+        "aws-sdk": {
+          "name": "aws-sdk",
+          "language": "nodejs",
+          "version": "2.817.0",
+          "dev": true,
+          "notRemovable": false
+        },
+        "infi": {
+          "name": "infi",
+          "version": "0.1.0",
+          "dev": false,
+          "language": "nodejs"
+        }
+      }
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.5.2",
+    "projectName": "indunilll-vscodecheckk",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1612169748045
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "indunilll-vscodecheckk",
+      "url": "https://github.com/Indunil1992/indunilll-vscodecheckk"
+    }
+  }
+}

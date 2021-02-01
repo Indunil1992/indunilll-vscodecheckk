@@ -1,0 +1,8 @@
+{
+    "devDependencies": {
+        "aws-sdk": "2.817.0"
+    },
+    "dependencies": {
+        "infi": "0.1.0"
+    }
+}
